@@ -1,0 +1,2 @@
+# settings
+Dane konfiguracji systemu
